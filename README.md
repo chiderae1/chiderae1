@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiderae1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack technologies
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chidera.ekwuno@stu.cu.edu.ng
 
